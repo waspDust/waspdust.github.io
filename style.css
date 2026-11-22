@@ -12,7 +12,7 @@
 
 body {
     font-family: 'JetBrains Mono', monospace;
-    background-color: #000000;
+    background-color: #000c14;
     color: #CC5500;
     font-size: 14px;
     font-weight: bold;
@@ -37,7 +37,7 @@ body {
     margin-top: auto;
     position: sticky;
     bottom: 0;
-    background-color: #000000;
+    background: transparent;
     padding: 12px 0;
 }
 
